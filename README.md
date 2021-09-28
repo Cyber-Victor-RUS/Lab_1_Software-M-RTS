@@ -1,0 +1,1 @@
+This repository contains the source files of the laboratory work on the topic "Debugging software for robotic systems using virtual simulation".
